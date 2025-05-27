@@ -41,8 +41,8 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[romank-data]/[credit-risk-management-model].git
-    cd [credit-risk-management-model]
+    git clone https://github.com/romank-data/credit-risk-management-model.git
+    cd credit-risk-management-model
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -57,7 +57,7 @@ To set up and run this project locally, follow these steps:
     ```
 
 4.  **Download the dataset:**
-    This project utilizes the [Default Risk dataset from Kaggle](https://[https://www.kaggle.com/datasets/romanwr/train-data]). Please download the necessary files (e.g., '.pq' files, 'train_target.csv', etc.) and place them in the appropriate directory as referenced in the `ml-credit-score.ipynb` notebook (e.g., in an `input` folder at the root of your project).
+    This project utilizes the [Default Risk dataset from Kaggle](https://www.kaggle.com/datasets/romanwr/train-data). Please download the necessary files (e.g., '.pq' files, 'train_target.csv' and 'credit-pipeline.py') and place them in the appropriate directory as referenced in the `ml-credit-score.ipynb` notebook (e.g., in an `input` folder at the root of your project).
 
 5.  **Run the Jupyter Notebook:**
     ```bash
