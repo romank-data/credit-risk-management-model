@@ -18,7 +18,7 @@ This project focuses on developing and training a robust **Credit Risk Managemen
     * Primary model: **CatBoost** — chosen for its superior performance, handling of categorical features, and robustness.
     * Comparative models: **LightGBM** and **XGBoost** were also utilized for benchmarking and performance comparison.
 * **Hyperparameter Tuning:** Optimization of model parameters for best performance.
-* **Model Evaluation:** Comprehensive evaluation on a held-out test set using metrics like AUC-ROC, Precision, Recall, and F1-Score.
+* **Model Evaluation:** Comprehensive evaluation on a held-out test set using metrics like AUC-ROC.
 * **Probability Distribution Analysis:** Visualization of predicted probabilities for better risk segmentation.
 
 ## 🛠️ Technologies Used
